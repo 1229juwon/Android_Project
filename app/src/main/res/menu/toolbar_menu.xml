@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/app_bar_search"
+        android:icon="@drawable/search_icon"
+        android:title="Search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always" />
+    <item android:title="홈"
+        android:icon="@drawable/selected_home_icon"
+        android:id="@+id/home"/>
+    <item android:title="이용내역"
+        android:icon="@drawable/recipt_icon"
+        android:id="@+id/recipt"/>
+</menu>

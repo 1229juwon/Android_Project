@@ -1,0 +1,27 @@
+<resources>
+<string name="app_name">My Project</string>
+<!-- TODO: Remove or change this placeholder text -->
+<string name="hello_blank_fragment">Hello blank fragment</string>
+<string-array name="category_spinner_array">
+    <item>밥먹기</item>
+    <item>카페가기</item>
+    <item>영화보기</item>
+    <item>운동하기</item>
+    <item>공부하기</item>
+    <item>산책하기</item>
+</string-array>
+<string-array name="hour_spinner_array">
+    <item>01시간</item>
+    <item>02시간</item>
+    <item>03시간</item>
+    <item>04시간</item>
+    <item>05시간</item>
+    <item>06시간</item>
+</string-array>
+<string-array name="min_spinner_array">
+    <item>00분</item>
+    <item>15분</item>
+    <item>30분</item>
+    <item>45분</item>
+</string-array>
+</resources>

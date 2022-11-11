@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="홈"
+        android:icon="@drawable/selected_home_icon"
+        android:id="@+id/home"/>
+    <item android:title="이용내역"
+        android:icon="@drawable/recipt_icon"
+        android:id="@+id/recipt"/>
+    <item android:title="등록"
+        android:icon="@drawable/create_icon"
+        android:id="@+id/create"/>
+    <item android:title="채팅"
+        android:icon="@drawable/chat_icon"
+        android:id="@+id/chat"/>
+    <item android:title="마이페이지"
+        android:icon="@drawable/mypage_icon"
+        android:id="@+id/mypage"/>
+</menu>
